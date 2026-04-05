@@ -3,7 +3,7 @@ import sqlite3
 
 # Set page title and icon
 st.set_page_config(
-    page_title="VZ Credit Score App",  # Browser tab title
+    page_title="Credit Score App",  # Browser tab title
     page_icon="📊",  # Optional: Add an icon
 )
 
